@@ -1,0 +1,78 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f1f5f9;
+    color: #243247;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #142b4a;
+    color: white;
+    text-align: center;
+    padding: 50px 20px;
+}
+
+header h1 {
+    font-size: 38px;
+    margin-bottom: 10px;
+}
+
+header p {
+    color: #dce7f5;
+}
+
+main {
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 20px;
+}
+
+section {
+    background-color: white;
+    padding: 25px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+h2 {
+    color: #142b4a;
+    border-bottom: 2px solid #dbe4ef;
+    padding-bottom: 10px;
+}
+
+p {
+    line-height: 1.7;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #142b4a;
+    color: white;
+}
+
+th, td {
+    padding: 12px;
+    border: 1px solid #dbe4ef;
+    text-align: left;
+}
+
+footer {
+    background-color: #142b4a;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.profile-photo {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 4px solid white;
+    margin-bottom: 15px;
+}
